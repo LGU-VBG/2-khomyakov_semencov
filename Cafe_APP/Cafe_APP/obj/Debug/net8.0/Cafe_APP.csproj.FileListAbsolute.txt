@@ -1,0 +1,14 @@
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.AssemblyInfoInputs.cache
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.AssemblyInfo.cs
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.csproj.CoreCompileInputs.cache
+C:\VS\Cafe_APP\Cafe_APP\bin\Debug\net8.0\Cafe_APP.exe
+C:\VS\Cafe_APP\Cafe_APP\bin\Debug\net8.0\Cafe_APP.deps.json
+C:\VS\Cafe_APP\Cafe_APP\bin\Debug\net8.0\Cafe_APP.runtimeconfig.json
+C:\VS\Cafe_APP\Cafe_APP\bin\Debug\net8.0\Cafe_APP.dll
+C:\VS\Cafe_APP\Cafe_APP\bin\Debug\net8.0\Cafe_APP.pdb
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.dll
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\refint\Cafe_APP.dll
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.pdb
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\Cafe_APP.genruntimeconfig.cache
+C:\VS\Cafe_APP\Cafe_APP\obj\Debug\net8.0\ref\Cafe_APP.dll
